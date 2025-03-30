@@ -1,0 +1,27 @@
+vendor-core-07ed13eba137a39c.min.js.br:77 [Local fonts] using agent
+vendor-core-07ed13eba137a39c.min.js.br:77 [Local fonts] using agent
+VM4609:2 https://res.cloudinary.com/dymm3eptm/image/upload/v1743336386/screen_gaze_point.jpg
+VM4609:2 Error fetching image: Error: Unsupported image format
+    at l (<anonymous>:2:144714)
+    at l.next (<anonymous>)
+    at o (<anonymous>:2:145110)
+l @ VM4609:2
+o @ VM4609:2
+Promise.then
+i @ VM4609:2
+o @ VM4609:2
+Promise.then
+i @ VM4609:2
+(anonymous) @ VM4609:2
+onClick @ VM4609:2
+Oe @ VM4609:2
+je @ VM4609:2
+(anonymous) @ VM4609:2
+Ir @ VM4609:2
+Ur @ VM4609:2
+(anonymous) @ VM4609:2
+ss @ VM4609:2
+Le @ VM4609:2
+Br @ VM4609:2
+Kn @ VM4609:2
+Qn @ VM4609:2
